@@ -1,6 +1,6 @@
 # Negi_Mohit_001549103
 
-# INFO5100-Assignment-1
+# INFO5100-Assignment-1 ^ Assignment-2
 Lab assignment_1 for INFO5100<br>
 The following java application build in Netbeans using swing GUI toolkit reads and displays:
 1)   Demographic info such first name, last name, phone number, date of birth, age, height, weight, social security number.
